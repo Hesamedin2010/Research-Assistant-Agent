@@ -1,0 +1,6 @@
+PLANNING = "planning"
+WEBSEARCH = "websearch"
+REVISE = "revise"
+EDIT = "edit"
+PUBLISH_PDF = "publish_pdf"
+PUBLISH_DOCX = "publish_docx"
